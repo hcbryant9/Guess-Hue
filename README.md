@@ -1,2 +1,3 @@
 # Guess-Hue
- a web version of the game "Hues & Cues"
+![Alt text](src/images/colourboard.png)
+ A JavaScript/React recreation of the board game Hues and Cues.
